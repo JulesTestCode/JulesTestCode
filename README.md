@@ -19,3 +19,4 @@ I'm a young engineer passionate about new technologies such as AI, robotics and 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JulesTestCode&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=JuleqTestCode&color=blueviolet&style=plastic&abbreviated=true&base=50&label=PROFILE+VIEWS)
