@@ -1,19 +1,57 @@
 # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Hi, I'm Jules Dutilleux <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> <br/><br/> <a href='mailto:julesdevpro@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="40"/></a>  <a href="https://www.linkedin.com/in/julesdutilleux/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="40"/></a> </p>
 
-**I'm a young informatic engineer passionate about new technologies such as :**
+**I'm a young informatic engineer who is curious and passionate about new technologies such as :**
 <p align="center"> <img align="center" src="https://img.shields.io/badge/_AI_-Computer_Vision_--_Neuronal_Systems-F24E1E?style=flat-square&labelColor=008744&color=0057e7" height="30" /> && <img align="center" src="https://img.shields.io/badge/Embedded_Systems-Robotic_--_Biomimetism_--_Mobile_--_IoT-F24E1E?style=flat-square&labelColor=d62d20&color=ffa700" height="30" /> </p>
+
+[comment]: # (Badges in google colors)
 
 ---
 
 <details>
   <summary><H2>Skills</H2></summary>
 
+<!-- Logos solution
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </p>
+-->
 
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+- ### Design :
+  <img align="left" src="https://img.shields.io/badge/SolidWorks-D32D27?style=flat&logo=dassaultsystemes&logoColor=white&logoSize=auto" title="Solidworks" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="30" />
+  <img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="30"/>
+  <br/><br/>
+- ### Programming Languages :
+  <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&logoSize=auto" title="C++" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="30" />
+  <img align="left" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/LaTeX-98CA3F?style=flat" title="LaTeX" height="30"/>
+  <br/><br/>
+- ### Robotic :
+  <img align="left" src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white&logoSize=auto" title="ROS 2" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Universal_Robots-9ED5FF?style=flat&logo=ur&logoColor=white&logoSize=auto" title="Universal Robots" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Staübli-B5B5B6?style=flat&logo=staubli&logoColor=white&logoSize=auto" title="Staübli" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/TIA_Portal-009999?style=flat&logo=siemens&logoColor=white&logoSize=auto" title="Siemens TIA Portal" height="30"/>
+  <br/><br/>
+- ### Environments :
+  <img align="left" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Ubuntu-009999?style=flat&logo=linux&logoColor=white&logoSize=auto" title="Linux Ubuntu" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/VisualStudio-9933CC?style=flat" title="Visual Studio" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/VS_Code-0D96F6?style=flat" title="Visual Studio Code" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="30"/>
+  <br/><br/>
+- ### Management :
+  <img align="left" src="https://img.shields.io/badge/Agile-ffc273?style=flat" title="Agile Management" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/SCRUM-c1558b?style=flat" title="SCRUM meeting" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/GANTT-8a49a1?style=flat" title="GANTT Schedule" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto" title="Git" height="30"/>
+  <br/><br/>
+- ### Languages :
+  <img align="left" src="https://img.shields.io/badge/French-C2-8a49a1?style=flat&labelColor=E1000F&color=000091" title="French level" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/English-B1-8a49a1?style=flat&labelColor=C8102E&color=012169" title="English level" height="30"/>
+  <img align="left" src="https://img.shields.io/badge/Spanish-A2-8a49a1?style=flat&labelColor=AD1519&color=FABD00" title="Spanish level" height="30"/>
+  <br/><br/>
 
 </details>
 
@@ -24,68 +62,57 @@
 
 ### Projects
 
-[comment]: # (logo solution : <img align="right" src="https://skillicons.dev/icons?i=cs,dotnet,azure,aws,figma,postman,visualstudio&theme=light" title="C# - .NET - Azure - AWS - Figma - Postman - VisualStudio" />)
+[comment]: # (logo solution : <img align="right" src="https://skillicons.dev/icons?i=cs,dotnet,,aws,figma,postman,visualstudio&theme=light" title="C# - .NET -  - AWS - Figma - Postman - VisualStudio" />)
 
-<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
+<img align="right" src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white&logoSize=auto" title="ROS 2" height="22"/>
 
 - **AI-Supervised Robotic Sorting System :**\
 📆 2024 `Team project`
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&logoSize=auto" title="Pytorch" height="22"/>
   - Video processing and visual recognition system using **Deep Learning**
   - Remote control of a **TurtleBot**, manually and/or automatically, via area mapping
   - Simulation of a **robotic arm controlled** remotely for **”pick and place”** operations
   - Integration of all project components to deliver an **AI-supervised robotic system** for automated object sorting in a predeﬁned area
   <br/><br/>
 
-<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
+<img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
+<img align="right" src="https://img.shields.io/badge/LoRaWAN-0194E2?style=flat&logo=lorawan&logoColor=white&logoSize=auto" title="LoRaWAN" height="22"/>
 
 - **Home Station :**\
   📆 2023 `Team project`
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto" title="Flask" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white&logoSize=auto" title="Qt" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto" title="SQLite" height="22"/>
   -  Design and creation of a **connected weather station** tailored for households, equipped with multiple sensors and modules
   -  Encoding and decoding data frames transmitted by the station using the **LoRaWAN** protocol
   -  Development of a **client software** displaying real-time weather data and enabling the addition and control of other home **automation modules**
   <br/><br/>
 
-<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
+<img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Scrum-0194E2?style=flat&logo=scrum&logoColor=white&logoSize=auto" title="Scrum" height="22"/>
 
 - **Robotic Delivery System :**\
   📆 2022 `Team project`
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto" title="Flask" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto" title="SQLite" height="22"/>
   -  Design and fabrication of a **mobile robot** remotely controllable
   -  Creation of a client software for registering packages and distributing them in the **robotic ﬂeet** using a ”FIFO” system
   -  Development of a **supervisor server** for collecting package data, calculating optimal paths based on ﬂeet layout, and sending commands to available robots
   <br/><br/>
 
-<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
+<img align="right" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto" title="OpenCV" height="22"/>
 
 - **Robotic ”Mirror” Arm :**\
   📆 2022 `Individual project`
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/TCP/UDP-A435F0?style=flat&logo=network&logoColor=white&logoSize=auto" title="Networking" height="22"/>
   -  Design and implementation of a **robotic arm remotely controlled** via UDP frame reception
   -  Video processing and **real-time visual recognition system** for sending UDP commands
   -  Integration of both parts to reﬂect the **hand’s position** on a remote robotic arm and perform other **ﬁnger-based actions**
@@ -93,29 +120,34 @@
 
 ### Experiences
 
-- **IT Engineer (Apprenticeship & Fixed-Term Contract)** <br/>
-  <img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-  <img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
+<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
+<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+
+- **IT Engineer (Apprenticeship & Fixed-Term Contract)**\
+  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
   📆 Nov. 2022 - Dec. 2024\
   📍 **CTAC-TEC Flipr** - Perpignan, France
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  -  Maintenance and **evolution of Flipr’s backend** and its **Azure** environment (REST APIs, Webjobs, Databases).
+  -  Managing the evolution of the **Flipr mobile application** and **international teams** handling its IOS and Android development.
+  -  Participation in the development and integration of AnalysR V3 and Flipr Connect within Flipr’s ecosystem.
+  -  Design, development, and integration of FliprAI, an **AI-powered solution** for pool and environment analysis, generating treatment recommendations, and enabling user interaction.
+  <br/><br/>
 
-- **Versatile Employee – Maker (Apprenticeship)**\ <br/>
-  <img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-  <img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<img align="right" src="https://img.shields.io/badge/Lychee_Slicer-e56969?style=flat&logo=lychee&logoColor=white&logoSize=auto" title="Lychee Slicer" height="22" />
+
+- **Versatile Employee – Maker (Apprenticeship)**\
+  <img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
+  <img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
   📆 Dec. 2021 - Sep. 2022\
   📍 **FunRoom Escape Games** - Pau, France
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+  -  Maintenance, design, and implementation of **mechatronic mechanisms** for escape rooms or speciﬁc business requests
+  -  Client reception, game room management, and payment handling (Game Master)
+  <br/><br/>
   
 ### Education
 
