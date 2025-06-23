@@ -4,7 +4,7 @@
   <style align="center" />
   <source media="(prefers-color-scheme: dark)" srcset="pixel_art-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="pixel_art-light.svg" />
-  <img alt="pixel_art" src="pixel_art.svg" width="1000" />
+  <img alt="pixel_art" src="https://github.com/JulesTestCode/PixelArt" width="1000" />
 </picture><br/><br/>
 
 **I'm a young informatic engineer who is curious and passionate about new technologies such as :**
