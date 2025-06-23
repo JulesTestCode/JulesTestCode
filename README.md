@@ -1,5 +1,12 @@
 # <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Hi, I'm Jules Dutilleux <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> <br/><br/> <a href='mailto:julesdevpro@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="40"/></a>  <a href="https://www.linkedin.com/in/julesdutilleux/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="40"/></a> </p>
 
+<picture>
+  <style align="center" />
+  <source media="(prefers-color-scheme: dark)" srcset="pixel_art-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="pixel_art-light.svg" />
+  <img alt="pixel_art" src="pixel_art.svg" width="1000" />
+</picture><br/><br/>
+
 **I'm a young informatic engineer who is curious and passionate about new technologies such as :**
 <p align="center"> <img align="center" src="https://img.shields.io/badge/_AI_-Computer_Vision_--_Neuronal_Systems-F24E1E?style=flat-square&labelColor=008744&color=0057e7" height="30" /> && <img align="center" src="https://img.shields.io/badge/Embedded_Systems-Robotic_--_Biomimetism_--_Mobile_--_IoT-F24E1E?style=flat-square&labelColor=d62d20&color=ffa700" height="30" /> </p>
 
