@@ -76,23 +76,58 @@
   <tr>
     <td valign="top" width="70%">
       
-- **AI-Supervised Robotic Sorting System :**  
-📆 2024 `Team project`  
-  - Video processing and visual recognition system using **Deep Learning**  
-  - Remote control of a **TurtleBot**, manually and/or automatically, via area mapping  
-  - Simulation of a **robotic arm controlled** remotely for **”pick and place”** operations  
-  - Integration of all project components to deliver an **AI-supervised robotic system** for automated object sorting in a predefined area  
+  - **AI-Supervised Robotic Sorting System**\
+  📆 2024 · `Team project`  
+    - Video processing and visual recognition using **Deep Learning**  
+    - Remote control of a **TurtleBot** via mapping  
+    - Simulation of a **robotic arm** for “pick and place” tasks  
+    - Final system supervised by **AI for object sorting**  
 
     </td>
     <td align="right" valign="top">
       <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" title="Autodesk Fusion360" height="22" />
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" title="ROS 2" height="22"/>
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" title="ROS 2" height="22"/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python 3" height="22"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" title="PyTorch" height="22"/>
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td valign="top" width="70%">
+
+  - **IoT Environmental Monitoring Platform**\
+  📆 2023 · `Personal project`  
+    - Real-time sensor data from air quality stations  
+    - Low-power **LoRa** communication + data fusion  
+    - Dashboard with alerts via **web interface**  
+
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/ESP32-003B71?style=flat&logo=espressif&logoColor=white" title="ESP32" height="22"/>
+      <img src="https://img.shields.io/badge/LoRa-00A572?style=flat&logo=thethingsnetwork&logoColor=white" title="LoRa" height="22"/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" height="22"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" title="Grafana" height="22"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="70%">
+
+  - **Autonomous Drone Navigation**\
+  📆 2022 · `Academic project`  
+    - Indoor navigation with **depth camera**  
+    - Obstacle avoidance using **ROS2**  
+    - Trajectory planning via **Python**  
+
+    </td>
+    <td align="center" valign="midlle">
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" title="ROS 2" height="22"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" title="OpenCV" height="22"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python" height="22"/>
+      <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" title="NVIDIA Jetson Nano" height="22"/>
+    </td>
+  </tr>
+</table>
 
 
 <img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
