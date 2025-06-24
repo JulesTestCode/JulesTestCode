@@ -159,11 +159,7 @@
       <img src="https://img.shields.io/badge/TCP/UDP-A435F0?style=flat&logo=network&logoColor=white" height="22" />
     </td>
   </tr>
-
 </table>
-
-
-### Experiences
 
 ### Experiences
 
@@ -175,7 +171,7 @@
   📆 Nov. 2022 – Dec. 2024 · 📍 *CTAC-TEC Flipr – Perpignan, France*  
     - Maintenance and **evolution of Flipr’s backend** and its **Azure** environment (REST APIs, Webjobs, Databases)  
     - Managing the evolution of the **Flipr mobile application** and **international teams** (iOS/Android)  
-    - Development and integration of **AnalysR V3** and **Flipr Connect**  
+    - Participation in the development and integration of **AnalysR V3** and **Flipr Connect** within Flipr’s ecosystem. (IoT)
     - Creation of **FliprAI**, an **AI-powered solution** for pool & environment analysis and user interaction
     <br/>
 
@@ -197,8 +193,8 @@
 
   - **Versatile Employee – Maker (Apprenticeship)**\
   📆 Dec. 2021 – Sep. 2022 · 📍 *FunRoom Escape Games – Pau, France*  
-    - Maintenance, design, and implementation of **mechatronic mechanisms** for escape games and clients  
-    - Game Master: welcoming players, managing game sessions, and handling payments
+    - Maintenance, design, and implementation of **mechatronic mechanisms** for escape games and speciﬁc business requests
+    - Client reception, game room management, and payment handling (Game Master)
     <br/>
 
     </td>
