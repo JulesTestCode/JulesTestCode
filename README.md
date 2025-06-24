@@ -72,6 +72,29 @@
 
 [comment]: # (logo solution : <img align="right" src="https://skillicons.dev/icons?i=cs,dotnet,,aws,figma,postman,visualstudio&theme=light" title="C# - .NET -  - AWS - Figma - Postman - VisualStudio" />)
 
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      
+- **AI-Supervised Robotic Sorting System :**  
+📆 2024 `Team project`  
+  - Video processing and visual recognition system using **Deep Learning**  
+  - Remote control of a **TurtleBot**, manually and/or automatically, via area mapping  
+  - Simulation of a **robotic arm controlled** remotely for **”pick and place”** operations  
+  - Integration of all project components to deliver an **AI-supervised robotic system** for automated object sorting in a predefined area  
+
+    </td>
+    <td align="right" valign="top">
+      <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" title="Autodesk Fusion360" height="22" />
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" title="ROS 2" height="22"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python 3" height="22"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" title="PyTorch" height="22"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
 <img align="right" src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white&logoSize=auto" title="ROS 2" height="22"/>
 
